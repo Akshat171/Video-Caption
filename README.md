@@ -52,7 +52,7 @@ First, run the development server:
 
 
 ```bash
-git clone https://github.com/yourusername/video-caption-tool.git
+git clone https://github.com/Akshat171/Video-Caption.git
 cd video-caption-tool
 npm install
 npm run dev
